@@ -1,9 +1,17 @@
+chromer 0.9.1
+=============
+
+### Minor changes
+
+* The API has moved again, to <https://ccdb.tau.ac.il/services/>
+
+
 chromer 0.8
 ===========
 
 ### Minor changes
 
-* API has moved to a new site, <https://taux.evolseq.net/CCDB_web/services/>
+* API has moved to a new site, `taux.evolseq.net/CCDB_web/services/`
 
 
 chromer 0.6
