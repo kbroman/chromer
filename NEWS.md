@@ -1,4 +1,4 @@
-chromer 0.9.1
+chromer 0.10
 =============
 
 ### Minor changes
