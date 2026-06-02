@@ -4,7 +4,7 @@
 [![r-universe badge](https://ropensci.r-universe.dev/chromer/badges/version)](https://ropensci.r-universe.dev/chromer)
 <!-- badges: end -->
 
-# chromer <img alt="chromer logo" src="man/figures/logo.png" align="right"/>
+# chromer <img alt="chromer logo" src="https://raw.githubusercontent.com/ropensci/chromer/master/man/figures/logo.png" align="right"/>
 
 This package provides programmatic access to the [Chromosome Counts
 Database (CCDB)](https://ccdb.tau.ac.il/)
