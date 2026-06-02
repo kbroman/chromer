@@ -1,6 +1,7 @@
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/ropensci/chromer/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ropensci/chromer/actions/workflows/R-CMD-check.yaml)
 [![CRAN status](https://www.r-pkg.org/badges/version/chromer)](https://CRAN.R-project.org/package=chromer)
+[![r-universe badge](https://ropensci.r-universe.dev/chromer/badges/version)](https://ropensci.r-universe.dev/chromer)
 <!-- badges: end -->
 
 # chromer <img alt="chromer logo" src="man/figures/logo.png" align="right"/>
@@ -26,7 +27,16 @@ The package can be installed directly from CRAN, but it is currently outdated --
 install.packages("chromer")
 ```
 
-or, for the latest version, you can install directly from GitHub using [remotes](https://github.com/r-lib/remotes)
+Or get the most recent version from [R
+universe](https://ropensci.r-universe.dev):
+
+```r
+install.packages("chromer", repos=c("https://ropensci.r-universe.dev",
+                                    "https://cloud.r-project.org"))
+```
+
+Or use `remotes::install_github()` to install it from
+[GitHub](https://github.com/rOpenSci/chromer):
 
 ```r
 ## install.packages("remotes")
